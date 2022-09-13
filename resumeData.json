@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Ayub Otieno",
+    "description": "Data Analyst | SQL, Tableau || Software Engineer | Python|| Passionate about building projects with positive impacts||✨",
+    "image": "ayub_pic.jpg",
+    "bio": "I am a skilled data analyst with experience in collecting, organizing, interpreting, and disseminating various types of statistical data. With my expert understanding of statistics, mathematics, and analytics in Python, Excel, SQL, Tableau, and web scraping, I can help firms drive accuracy. \nI am looking for a challenging role in an organization to utilize my technical, data analytics, and management skills in an integral, professional and adaptable manner for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector with a good academic record, ability to understand and test software, working knowledge of software development and a strong understanding of core internet technologies.",
+    "contactmessage": "You can have a talk with me here!",
+    "email": "meayub7166@gmail.com",
+    "phone": "+254729377683",
+    "address": {
+      "street": "Naivas, Alsops",
+      "city": "Nairobi",
+      "state": "Kenya"
+
+    },
+    "website": "https://linktr.ee/developersbeat",
+    "resumedownload": "https://drive.google.com/file/d/1Wj_tEnAkvZLGz4FbjDwQPxGI5dc7wU58/view?usp=drivesdk",
+    "social": [
+
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/@DS_AyubJob",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ayub-otieno-a990b2160/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/ayuboti",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/",
+        "className": "fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Fast learner & adaptable",
+    "education": [
+      {
+        "school": "KCA UNIVERSITY",
+        "degree": "BSc. Software Development",
+        "graduated": "May 2018 - December 2022"
+      },
+
+      {
+        "school": "KCA UNIVERSITY",
+        "degree": "Cisco Certified Network Associate (CCNA) ",
+        "graduated": "April 2019 - September 2020"
+      },
+
+      {
+        "school": "MOI FORCES ACADEMY│NAIROBI ",
+        "degree": "Kenya Certificate of Secondary Education",
+        "graduated": "February 2013 - November 2017"
+      }
+    ],
+    "work": [
+      {
+        "company": "GREAT LEARNING",
+        "title": "Mentor and Evaluator - Data Science & Business Analytics ",
+        "years": "May 2022 - Present",
+        "description": "Mentoring and evaluating students in an Online DSBA Program.\n\uF0B7 Evaluate, Assess and Moderate Data Science Projects.\n\uF0B7 Provide technical expertise and/or training in variety of areas, including\nintroduction to python for data analysis, supervised and unsupervised\nlearning, Excel and SQL."
+      },
+      {
+        "company": "uTest/Applause",
+        "title": "Functional / Usability Tester ",
+        "years": "November 2019 - Present,",
+        "description": "Gold rated Functional Tester. Gold rated Usability Tester. Worked with 100+ products and 200+ Test Cycles. Submitted more than 200 valuable bugs"
+      },
+      {
+        "company": "INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION –\nKENYA (IEBC) │ ",
+        "title": "Kamukunji Constituency ICT (CICT) ",
+        "years": "October 2021 - August 2022",
+        "description": "To provide high-quality first-level ICT support assistance to the Returning\nOfficer at the main tallying Centre.\n\uF0B7 Restore normal services to the users as fast as possible by fixing technical\nhitches, fulfilling service demands or answering queries to allow the users to\nwork effectively.\n\uF0B7 To schedule, configure and test KIEMS kits in readiness for the elections. Perform data backup and also data restoration on KIEMS Kits."
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "Data Analysis",
+        "level": "95%"
+      },
+      {
+        "name": "Structured Query Language (SQL)",
+        "level": "95%"
+      },
+      {
+        "name": "Python-Statistical Programming",
+        "level": "94%"
+      },
+      {
+        "name": "Critical Thinking",
+        "level": "90%"
+      },
+
+      {
+        "name": "React.js",
+        "level": "70%"
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": "99%"
+      },
+      {
+        "name": "Presentation",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
